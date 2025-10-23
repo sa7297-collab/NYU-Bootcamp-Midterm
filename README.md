@@ -21,19 +21,19 @@ This project presents a comprehensive exploratory data analysis of four prominen
 
 This analysis addresses seven key research questions:
 
-1. **Channel Performance Comparison**: How do these four channels compare in subscribers, views, and content output? Which channel most efficiently converts content into views?
+1. Which channel demonstrates the strongest overall performance, and how does audience scale affect content efficiency?
 
-2. **Optimal Video Duration**: What video length maximizes viewer engagement in baking content? 
+2. What is the optimal video duration for maximizing engagement?
 
-3. **Engagement Drivers**: What factors correlate with higher engagement rates (likes and comments)?
+3. Does audience size significantly influence engagement efficiency across top baking channels?
 
-4. **Upload Timing Strategy**: When do successful channels upload content, and does timing impact performance?
+4. What relationships exist between video features and engagement performance across baking channels?
 
-5. **Production Quality Impact**: Does video quality (HD vs SD) and caption availability affect video performance?
+5. How do upload frequency patterns differ across channels, and what do they reveal about each creator’s content strategy?
 
-6. **Metadata Optimization**: How do channels use tags and descriptions, and does metadata correlate with success?
+6. What upload days are most common among top baking channels, and does timing reflect a strategic publishing pattern?
 
-7. **Temporal Evolution**: How have upload strategies evolved over time, and are there seasonal patterns?
+7. How do top baking channels compare in video quality and accessibility features, and what does this reveal about production priorities?
 
 ### Data Source and API Access
 
